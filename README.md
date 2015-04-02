@@ -7,6 +7,7 @@ Data review (this is just for review and so it is locked, if you find errors, wa
 MODS/XML records for both phases are in All_Cleaned > modsxml subdirectory.
 
 Data changes:
+- Encoding issues fixed as able (heavily present in both Phase 1 and Phase 2 data)
 - URIs, normalized forms of names, places, subjects, forms, repositories were pulled
 - subjects parsed into topical, name, geographic
 - abstract made into name following phase 1 work and replacing lack of descriptive titles
