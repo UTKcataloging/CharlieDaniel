@@ -26,11 +26,11 @@
          <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
       </place>
       <dateCreated>[1951-2012?]</dateCreated>
-      <dateCreated encoding="w3cdtf"
+      <dateCreated encoding="edtf"
                    keyDate="yes"
                    point="start"
                    qualifier="inferred">1951</dateCreated>
-      <dateCreated encoding="w3cdtf" keyDate="yes" point="end">2012</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="end">2012</dateCreated>
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 still image</extent>

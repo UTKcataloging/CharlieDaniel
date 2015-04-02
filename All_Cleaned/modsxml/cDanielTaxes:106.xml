@@ -26,7 +26,7 @@
          <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
       </place>
       <dateCreated>1995 March 5</dateCreated>
-      <dateCreated encoding="w3cdtf" keyDate="yes">1995-03-05</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1995-03-05</dateCreated>
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 still image</extent>
