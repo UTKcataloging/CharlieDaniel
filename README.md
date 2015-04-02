@@ -1,8 +1,8 @@
 # CharlieDaniel
 Charlie Daniel Phases 1 + 2
 
-Data dictionary (for phase 1 migration and phase 2 creation/remediation) : 
-Data review (this is just for review and so it is locked, if you find errors, wait til ingested in Islandora and we will edit there) : https://docs.google.com/spreadsheets/d/1znfLDvNVFZJkH9NmldlfU4Jez0H9t95riImFIBD8Npo/edit?usp=sharing
+ - Data dictionary (for phase 1 migration and phase 2 creation/remediation) : https://wiki.lib.utk.edu/display/DLP/Charlie+Daniel
+ - Data review (this is just for review and so it is locked, if you find errors, wait til ingested in Islandora and we will edit there) : https://docs.google.com/spreadsheets/d/1znfLDvNVFZJkH9NmldlfU4Jez0H9t95riImFIBD8Npo/edit?usp=sharing
 
 MODS/XML records for both phases are in All_Cleaned > modsxml subdirectory.
 
